@@ -1,4 +1,5 @@
-### How to run
+## How to run
+
 ```
 # build docker image
 docker build -t <image-given-name>:<image-given-tag> .
